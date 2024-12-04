@@ -11,6 +11,8 @@ on:
 # 点赞☆Star触发编译
 #  watch:
 #    types: [started]
+ #CI权限
+permissions: write-all
 
 jobs:
   Build_rk3588_r6c_66:
